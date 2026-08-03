@@ -9,7 +9,6 @@ This repository contains a collection of machine learning and data analysis note
 - `ada_reg.ipynb` — AdaBoost regressor using the diabetes dataset.
 - `rf_class.ipynb` — Random Forest classifier using the breast cancer dataset.
 - `rf_reg.ipynb` — Random Forest regressor using the California housing dataset.
-- `rf_c.py` — A simple Random Forest classification script.
 
 ### Recommender systems
 - `Content_based_recomm.ipynb` — Content-based recommendation using TF-IDF and cosine similarity.
